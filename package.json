@@ -5,7 +5,7 @@
   "main": "ng2-datepicker.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jkuri/ng2-datepicker.git"
+    "url": "git+https://github.com/gballet/ng2-datepicker.git"
   },
   "scripts": {
     "prepublish": "tsc"
@@ -20,11 +20,11 @@
   "author": "Jan Kuri <jkuri88@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@angular/common": "2.0.0-rc.6",
-    "@angular/compiler": "2.0.0-rc.6",
-    "@angular/core": "2.0.0-rc.6",
-    "@angular/forms": "^2.0.0-rc.6",
-    "@angular/platform-browser": "2.0.0-rc.6",
+    "@angular/common": "2.0.0",
+    "@angular/compiler": "2.0.0",
+    "@angular/core": "2.0.0",
+    "@angular/forms": "^2.0.0",
+    "@angular/platform-browser": "2.0.0",
     "rxjs": "5.0.0-beta.11",
     "typescript": "^2.0.2",
     "zone.js": "0.6.17"
